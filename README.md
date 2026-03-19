@@ -17,9 +17,21 @@
 ![snake](https://github.com/k4yraa/k4yraa/blob/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ Tech Stack
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
+
+### 🧠 Cyber Security
+![OSINT](https://img.shields.io/badge/OSINT-black?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-black?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-black?style=for-the-badge)
 
 ---
 
