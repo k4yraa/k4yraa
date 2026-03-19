@@ -22,9 +22,11 @@ Currently focused on learning by building real projects.
 ---
 
 ## Projects
-- IP intelligence tool  
-- Website info tool  
-- Password generator  
+- Network Recon Toolkit  
+- Passive Intelligence Scanner
+- HTTP Fingerprinting Tool
+- Metadata Extractor
+- Local Network Analyzer 
 
 ---
 
