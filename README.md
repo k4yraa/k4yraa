@@ -13,7 +13,9 @@
 ## 🚀 About Me
 - 🔎 Interested in OSINT & Cyber Security  
 - ⚡ Fast typer  
-- 🧠 Always learning new things  
+- 🧠 Always learning new things
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=k4yraa&theme=onestar&no-frame=true)
 
 ---
 
@@ -40,8 +42,11 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=vlix&show_icons=true&theme=tokyonight)
-![streak](https://streak-stats.demolab.com?user=vlix&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k4yraa&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=k4yraa&theme=tokyonight" />
+</p>
 
 ---
 
