@@ -14,8 +14,10 @@ Currently focused on learning by building real projects.
 ---
 
 ## Stack
-Python, C++, JavaScript  
-Linux, Git  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,linux,git" />
+</p> 
 
 ---
 
