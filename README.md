@@ -21,7 +21,7 @@ I analyze attack surfaces, identify misconfigurations, exploit logical flaws and
 - Malware Behavior Analysis
 - OSINT & Reconnaissance
 
----
+--
 
 ## Tools & Technologies
 
