@@ -13,6 +13,9 @@
 
 ---
 
+## 🐍 Snake Animation
+![snake](https://github.com/k4yraa/k4yraa/blob/output/github-contribution-grid-snake.svg)
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
