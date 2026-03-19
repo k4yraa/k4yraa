@@ -35,7 +35,7 @@ I analyze attack surfaces, identify misconfigurations, exploit logical flaws and
 - Git
 - Docker (lab environments)
 
----
+--
 
 ## Approach
 
