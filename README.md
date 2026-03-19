@@ -16,7 +16,7 @@ Currently focused on learning by building real projects.
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,linux,git,github,vscode,bash" />
 </p> 
 
 ---
