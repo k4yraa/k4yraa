@@ -1,6 +1,10 @@
 # 💻 Welcome to my profile
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;OSINT+Researcher;Python+C%2B%2B+Developer;Always+Learning..." />
 </p>
 
