@@ -19,7 +19,7 @@ Currently focused on learning by building real projects.
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,linux,git,github,vscode,bash" />
 </p> 
 
----
+--
 
 ## Projects
 - Network Recon Toolkit  
